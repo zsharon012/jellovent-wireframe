@@ -1,0 +1,1 @@
+This code is the html and css for the homepage of jellovent, which is a website fostering social connections on campus, and shows the layout of the website.
